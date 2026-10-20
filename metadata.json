@@ -1,0 +1,8 @@
+{
+  "name": "Build Your Own (X) - Technology Learning Platform",
+  "description": "An interactive catalog, project explorer, and learning tracker for the legendary Build Your Own (X) collection of step-by-step guides for recreating systems from scratch.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
